@@ -1,7 +1,0 @@
-[main]
-host = https://www.transifex.com
-
-[rupiye.qt-translation-022x]
-file_filter = src/qt/locale/rupiye_<lang>.xlf
-source_file = src/qt/locale/rupiye_en.xlf
-source_lang = en
